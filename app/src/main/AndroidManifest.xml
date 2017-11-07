@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hp.mathematics">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/loggo_math"
+        android:label="গাণিতিক সূত্রাবলী 2"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".generalActivity" />
+        <activity android:name=".algebraActivity" />
+        <activity android:name=".geometryActivity" />
+        <activity android:name=".trikonomityActivity" />
+        <activity android:name=".calculasActivity" />
+        <activity android:name=".statisticsActivity" />
+        <activity android:name=".advancedActivity" />
+        <activity android:name=".othersActivity" />
+        <activity android:name=".setActivity" />
+        <activity android:name=".UtpadokActivity" />
+        <activity android:name=".SuchokActivity" />
+        <activity android:name=".LogarithmActivity" />
+        <activity android:name=".SomadhanActivity" />
+        <activity android:name=".DharaActivity" />
+        <activity android:name=".BastobsonkhaActivity" />
+        <activity android:name=".JotilsongkhaActivity" />
+        <activity android:name=".BohupodiActivity" />
+        <activity android:name=".FunctionActivity" />
+        <activity android:name=".SomikoronActivity" />
+        <activity android:name=".DipodiActivity" />
+        <activity android:name=".OsomotaActivity" />
+        <activity android:name=".EbasefunctionActivity" />
+        <activity android:name=".OnupatsomanupatActivity" />
+        <activity android:name=".BinnassomabeshActivity" />
+        <activity android:name=".MannirnoyActivity"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Mathematics</string>
+
+    <string-array name="header_titles">
+        <item>Action Movies</item>
+    </string-array>
+
+    <string-array name="h1_items">
+        <item>The Dark Knight</item>
+    </string-array>
+
+    <string-array name="h2_items">
+        <item>Shades of Gray</item>
+    </string-array>
+    <string-array name="h3_items">
+        <item>Insidious chapter 3</item>
+    </string-array>
+
+
+</resources>
